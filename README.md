@@ -50,9 +50,9 @@ A total of **7,564 lines of code** were written for the project. For a detailed 
 
 ## Documentation
 For an in-depth breakdown of mechanics, UI, and development details, refer to the following sections:
-- [Gameplay Guide](docs/gameplay.md)
-- [Mechanics Overview](docs/mechanics.md)
-- [Development Insights](docs/development.md)
+- [Gameplay Guide](https://github.com/ARNAB814/Dungeon_of_The_Wild/tree/main/Docs/gameplay.md)
+- [Mechanics Overview](https://github.com/ARNAB814/Dungeon_of_The_Wild/tree/main/Docs/mechanics.md)
+- [Development Insights](https://github.com/ARNAB814/Dungeon_of_The_Wild/tree/main/Docs/development.md)
 
 ## Contact & Future Updates
 If you have any feedback or inquiries, please reach out to [arunavs@mun.ca](mailto:arunavs@mun.ca). While the project is complete, updates may be considered based on player feedback.
