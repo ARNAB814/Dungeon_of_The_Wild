@@ -41,7 +41,7 @@ Dungeon of the Wild is an action-adventure RPG that allows players to explore cu
 The source code for Dungeon of the Wild is **available upon request**. If you are interested in accessing the code, please contact [arunavs@mun.ca](mailto:arunavs@mun.ca).
 
 ## Code Statistics
-A total of **7,564 lines of code** were written for the project. For a detailed breakdown of individual files and their responsibilities, refer to [Code Statistics](docs/code_statistics.md).
+A total of **7,564 lines of code** were written for the project. For a detailed breakdown of individual files and their responsibilities, refer to [Code Statistics](https://github.com/ARNAB814/Dungeon_of_The_Wild/tree/main/Docs/)/code_statistics.md).
 
 ## Media and Showcase
 - **[Trailer](https://www.youtube.com/watch?v=OAiTauOFOWk)**
